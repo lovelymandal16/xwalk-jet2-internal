@@ -929,7 +929,7 @@
         "name": "mandatoryMessage",
         "label": "Error message",
         "valueType": "string",
-        "description": "Error message shown when required field is left empty."
+        "description": "Error 990000 message shown when required field is left empty."
       },
       {
         "component": "text",
