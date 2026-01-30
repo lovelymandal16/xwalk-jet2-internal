@@ -15,7 +15,7 @@
         {
             "component": "text",
             "name": "jcr:title",
-            "label": "Title",
+            "label": "Lovely Title",
             "valueType": "string"
         },
         {
